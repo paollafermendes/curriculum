@@ -5,9 +5,10 @@
   	color: white;
 }
 
+
 /*================| PALETA DE CORES |================*/
 #c1{
-  color: rgb(239,71,111);
+  color: rgb(248, 27, 102);
 }
 #c2{
   color: rgb(255,209,102);
@@ -30,7 +31,7 @@
 body {
   background-color: #110553;
   margin: 20px;
-} 
+}  
 
 .photo-border{
   clip-path: circle(32.5% at 50% 50%);
@@ -39,3 +40,6 @@ body {
 
 /*================| FOOTERS |================*/
 /*|  |*/
+span{
+	align-text: center;
+}
